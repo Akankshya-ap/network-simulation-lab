@@ -1,0 +1,72 @@
+Start time 1
+Stop time 20
+No. of packets received is 4481
+Throughput in kbps is 943.753394
+
+Ratio:0.9471, f:2153 
+
+Average End to End Delay 	:0.499964627 ms
+
+
+
+#####CASE 2 Node 5####
+
+Packets dropped by node number 5 is 1
+Packets dropped by node number 5 is 2
+Packets dropped by node number 5 is 3
+
+
+Start time 1
+Stop time 15
+No. of packets received is 3141
+Throughput in kbps is 899.369060
+
+Ratio:0.9950, f:1790 
+
+Average End to End Delay 	:0.529460366 ms
+
+
+#####CASE 3 NODE 6######
+
+
+Packets dropped by node number 6 is 1
+Packets dropped by node number 6 is 2
+Packets dropped by node number 6 is 3
+Start time 1
+Stop time 10
+No. of packets received is 1969
+Throughput in kbps is 870.508939
+Ratio:0.9501, f:902 
+
+
+Average End to End Delay 	:0.382443089 ms
+
+######CASE 4 NODE 15#######
+Packets dropped by node number 15 is 1
+Packets dropped by node number 15 is 2
+Packets dropped by node number 15 is 3
+Packets dropped by node number 15 is 4
+Packets dropped by node number 15 is 5
+Packets dropped by node number 15 is 6
+Packets dropped by node number 15 is 7
+
+
+Start time 1
+Stop time 43
+No. of packets received is 4512
+Throughput in kbps is 428.618830
+Ratio:0.9411, f:2135 
+
+Average End to End Delay 	:0.501426030 ms
+
+########CASE 5 NODE 9########
+
+Packets dropped by node number 9 is 1
+Packets dropped by node number 9 is 2
+
+Start time 1
+Stop time 5
+No. of packets received is 1002
+Throughput in kbps is 920.298057
+Ratio:0.8764, f:508
+Average End to End Delay 	:0.516284550 ms
