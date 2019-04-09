@@ -1,0 +1,31 @@
+Start time 22
+Stop time 299
+No. of packets received is 57669
+Throughput in kbps is 514.115573
+sw2@sw2-OptiPlex-9020:~/Desktop/115cs0231/2ndapril$ awk -f latency.awk ns1.trAverage End to End Delay 	:3.646052540 ms
+sw2@sw2-OptiPlex-9020:~/Desktop/115cs0231/2ndapril$ awk -f pdr.awk ns1.tr
+Ratio:0.9855, f:0 
+
+
+
+warning: Route to base_stn not known: dropping pkt
+warning: Route to base_stn not known: dropping pkt
+warning: Route to base_stn not known: dropping pkt
+warning: Route to base_stn not known: dropping pkt
+warning: Route to base_stn not known: dropping pkt
+warning: Route to base_stn not known: dropping pkt
+warning: Route to base_stn not known: dropping pkt
+warning: Route to base_stn not known: dropping pkt
+warning: Route to base_stn not known: dropping pkt
+warning: Route to base_stn not known: dropping pkt
+warning: Route to base_stn not known: dropping pkt
+sw2@sw2-OptiPlex-9020:~/Desktop/115cs0231/2ndapril$ awk -f pdr.awk ns1.tr
+Ratio:0.9836, f:0 
+sw2@sw2-OptiPlex-9020:~/Desktop/115cs0231/2ndapril$ awk -f latency.awk ns1.tr
+Average End to End Delay 	:42.070666481 ms
+sw2@sw2-OptiPlex-9020:~/Desktop/115cs0231/2ndapril$ awk -f throughput.awk ns1.tr 
+Start time 22
+Stop time 299
+No. of packets received is 21268
+Throughput in kbps is 232.468364
+
